@@ -1,8 +1,7 @@
 # Git-C-tutorial
-This is a repository that I create on this day of 2 february.
-
-
-I write a first c program
+This is a repository.
+I create on this day of 2 february.
+First program 
 #include<stdio.h>
   int main()
   {
